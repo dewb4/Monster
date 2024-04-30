@@ -1,0 +1,106 @@
+Cherub - kill with blood
+Cherub - deter with snaking movements
+Cherub - distract with blanket
+Fairy Queen - kill with music
+Dark Vampire - kill with vegetable
+Fallen Crusader - kill with blood
+Father Rathburn - kill with wooden stake
+Fire Devil - kill with water
+Frost Serpent - kill with smoke
+Fungal Beast - kill with holy power
+Gargoyle - kill with snakeskin
+Giant Serpent - kill with poison
+Giant Slug Man - kill with salt
+Giant Termite - kill with rotten food
+Gorgon - kill with silver
+The Loner - kill with music
+Hellhound - kill by smothering
+Glowing Specter - kill with reflection
+Lava Slime - kill with salt
+Little Deerpire - kill with wooden stake
+Living Vines - kill with music
+Lost Baby - save with blanket
+Lot - kill with water
+Magic Carpet - kill by stomping
+Phoenix - kill by smothering
+Rabid Cat - kill with poison
+Shadow Demon - kill with holy power
+The Prospector - kill with poison
+The Wise Man - kill with smoke
+Treant - kill with fire
+Vampire Lord - kill with wooden stake
+Weeping Widow - kill with reflection
+Were-Beaver - kill with silver
+Werewolf - kill with silver
+Witch - kill with fire
+Youthful Spirit - kill with occult magic
+Zack the Zealot - kill with occult magic
+Fairy Queen - deter with blood
+Dark Vampire - deter with mirror
+Fallen Crusader - deter with salt
+Father Rathburn - deter with occult magic
+Fire Devil - deter with blood
+Frost Serpent - deter with fire
+Fungal Beast - deter with blanket
+Gargoyle - deter with music
+Giant Serpent - deter with wood
+Giant Slug Man - deter with snakeskin
+Giant Termite - deter with smoke
+Gorgon - deter with reflection
+The Loner - deter with silver
+Hellhound - deter with silver
+Glowing Specter - deter with salt
+Lava Slime - deter with stake
+Little Deerpire - deter with blanket
+Living Vines - deter with plants
+Lost Baby - deter with smoke
+Lot - deter with holy power
+Magic Carpet - deter with water
+Phoenix - deter with occult magic
+Rabid Cat - deter with reflection
+Shadow Demon - deter with fire
+The Prospector - deter with smoke
+The Wise Man - deter with blood
+Treant - deter with vegetables
+Vampire Lord - deter with holy power
+Weeping Widow - deter with holy power
+Were-Beaver - deter with water
+Werewolf - deter with poison
+Witch - deter with music
+Youthful Spirit - deter with salt
+Zack the Zealot - deter with rotten food
+Fairy Queen - distract with mushroom
+Dark Vampire - distract with blood
+Fallen Crusader - distract with sword
+Father Rathburn - distract with reflection
+Fire Devil - distract with fire
+Frost Serpent - distract with snakeskin
+Fungal Beast - distract with mushroom
+Gargoyle - distract with a holy symbol
+Giant Serpent - distract with snakeskin
+Giant Slug Man - distract with rotten food
+Giant Termite - distract with wood
+Gorgon - distract with snakeskin
+The Loner - distract with tobacco
+Hellhound - distract with rotten food
+Glowing Specter - distract with ghost costume
+Lava Slime - distract with fire
+Little Deerpire - distract with music
+Living Vines - distract with water
+Lost Baby - distract with water
+Lot - distract with salt
+Magic Carpet - distract with occult magic
+Phoenix - distract with fire
+Rabid Cat - distract with water
+Shadow Demon - distract with silver
+The Prospector - distract with salt
+The Wise Man - distract with occult magic
+Treant - distract with vegetables
+Vampire Lord - distract with blood
+Weeping Widow - distract with tobacco
+Were-Beaver - distract with wood
+Werewolf - distract with occult magic
+Witch - distract with reflection
+Youthful Spirit - distract with music
+Zack the Zealot - distract with holy symbol
+"
